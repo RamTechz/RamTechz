@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Software Development and Data
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Deep Learing.
+- 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on data science projects and open source contributions.
 - 🤔 Ask me about data analysis, machine learning, or anything data-related.
 - 📫 How to reach me: www.linkedin.com/in/ramtechz
